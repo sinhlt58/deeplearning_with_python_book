@@ -1,0 +1,3 @@
+this is a line in test_file_feature2.txt
+this is a line to fix bug
+
